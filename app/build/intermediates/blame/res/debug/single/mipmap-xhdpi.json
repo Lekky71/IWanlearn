@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/root/Pictures/IwanLearn2/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_facebook.png",
+        "source": "/root/Pictures/IwanLearn2/app/src/main/res/mipmap-xhdpi/ic_facebook.png"
+    }
+]
