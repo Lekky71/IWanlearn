@@ -1,5 +1,73 @@
 [
     {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/root/Pictures/IwanLearn2/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/root/.android/build-cache/3b561724af9b209de9915e43cff50bf6c5d46603/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/root/Pictures/IwanLearn2/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/root/Pictures/IWanlearn/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/root/.android/build-cache/3b561724af9b209de9915e43cff50bf6c5d46603/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/root/.android/build-cache/3b561724af9b209de9915e43cff50bf6c5d46603/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/root/Pictures/IwanLearn2/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/root/.android/build-cache/3b561724af9b209de9915e43cff50bf6c5d46603/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/root/.android/build-cache/3b561724af9b209de9915e43cff50bf6c5d46603/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/root/Pictures/IwanLearn2/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/root/Pictures/IWanlearn/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/root/Pictures/IwanLearn2/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/root/Pictures/IwanLearn2/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
         "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
         "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/drawable-v21/notification_action_background.xml"
     },
@@ -8,27 +76,39 @@
         "source": "/root/.android/build-cache/3b561724af9b209de9915e43cff50bf6c5d46603/output/res/drawable-v21/avd_hide_password.xml"
     },
     {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
-        "source": "/root/.android/build-cache/3b561724af9b209de9915e43cff50bf6c5d46603/output/res/drawable-v21/design_password_eye.xml"
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/root/Pictures/IWanlearn/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/root/Pictures/IWanlearn/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
         "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
         "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
-        "source": "/root/.android/build-cache/3b561724af9b209de9915e43cff50bf6c5d46603/output/res/drawable-v21/avd_show_password.xml"
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/root/Pictures/IWanlearn/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/root/.android/build-cache/3b561724af9b209de9915e43cff50bf6c5d46603/output/res/drawable-v21/design_password_eye.xml"
     },
     {
         "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
         "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/drawable-v21/abc_edit_text_material.xml"
-    },
-    {
         "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
         "source": "/root/.android/build-cache/3b561724af9b209de9915e43cff50bf6c5d46603/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/root/Pictures/IWanlearn/app/src/main/res/drawable-v21/ic_menu_manage.xml"
     }
 ]

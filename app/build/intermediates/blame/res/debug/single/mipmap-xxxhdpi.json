@@ -4,6 +4,14 @@
         "source": "/root/Pictures/IwanLearn2/app/src/main/res/mipmap-xxxhdpi/ic_facebook.png"
     },
     {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/root/Pictures/IWanlearn/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_facebook.png",
+        "source": "/root/Pictures/IWanlearn/app/src/main/res/mipmap-xxxhdpi/ic_facebook.png"
+    },
+    {
         "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
         "source": "/root/Pictures/IwanLearn2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     }

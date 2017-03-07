@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml:3:5-39
-		INJECTED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml
-		INJECTED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml
+		ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml
-		INJECTED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml
-		INJECTED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml
 application
-ADDED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml:5:5-22:19
+ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:5:5-26:19
 MERGED from [com.facebook.android:facebook-android-sdk:4.0.0] /root/.android/build-cache/e7dc841491ee151e4303a9dd6e1121246daaf6b2/output/AndroidManifest.xml:28:5-20
 MERGED from [com.google.android.gms:play-services-auth:10.2.0] /root/.android/build-cache/a61dc17fb4e58edc5f615c53e3ac003d200a8201/output/AndroidManifest.xml:19:5-25:19
 MERGED from [com.google.android.gms:play-services-base:10.2.0] /root/.android/build-cache/f063a0a32f28c09d3a8a69bc9406a8b046c9518d/output/AndroidManifest.xml:18:5-20:19
@@ -33,39 +33,47 @@ MERGED from [com.android.support:support-core-ui:25.2.0] /root/.android/build-ca
 MERGED from [com.android.support:support-core-utils:25.2.0] /root/.android/build-cache/f4e4c48d08ead68c8aa826eb55af3885e99dae93/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:25.2.0] /root/.android/build-cache/6db6d4bbba61ca69a5cb99f3cd813e9f3dfde709/output/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:9:9-35
 	android:allowBackup
-		ADDED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml:10:9-40
+		ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:10:9-40
 activity#com.lekai.root.iwanlearn.Registration
-ADDED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml:11:9-17:20
+ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:11:9-17:20
 	android:name
-		ADDED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml:11:19-47
+		ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:11:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml:12:13-16:29
+ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:12:13-16:29
 action#android.intent.action.MAIN
-ADDED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml:13:17-69
+ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:13:17-69
 	android:name
-		ADDED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml:13:25-66
+		ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml:15:17-77
+ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:15:17-77
 	android:name
-		ADDED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml:15:27-74
+		ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:15:27-74
 activity#com.lekai.root.iwanlearn.LoginActivity
-ADDED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml:18:9-21:68
+ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:18:9-21:59
 	android:label
-		ADDED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml:20:13-57
+		ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:20:13-57
 	android:theme
-		ADDED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml:21:13-56
+		ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:21:13-56
 	android:name
-		ADDED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml:19:13-42
+		ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:19:13-42
+activity#com.lekai.root.iwanlearn.Profile
+ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:22:9-25:68
+	android:label
+		ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:24:13-59
+	android:theme
+		ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml:23:13-36
 uses-sdk
-INJECTED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.facebook.android:facebook-android-sdk:4.0.0] /root/.android/build-cache/e7dc841491ee151e4303a9dd6e1121246daaf6b2/output/AndroidManifest.xml:24:5-26:41
 MERGED from [com.google.android.gms:play-services-auth:10.2.0] /root/.android/build-cache/a61dc17fb4e58edc5f615c53e3ac003d200a8201/output/AndroidManifest.xml:17:5-43
 MERGED from [com.google.android.gms:play-services-auth-base:10.2.0] /root/.android/build-cache/a79daba651190dc0cc86a63e803b425babe5a072/output/AndroidManifest.xml:4:5-43
@@ -88,11 +96,11 @@ MERGED from [com.android.support:support-compat:25.2.0] /root/.android/build-cac
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.2.0] /root/.android/build-cache/3b561724af9b209de9915e43cff50bf6c5d46603/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml
-		INJECTED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml
-		INJECTED from /root/Pictures/IwanLearn2/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml
+		INJECTED from /root/Pictures/IWanlearn/app/src/main/AndroidManifest.xml
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
 ADDED from [com.google.android.gms:play-services-auth:10.2.0] /root/.android/build-cache/a61dc17fb4e58edc5f615c53e3ac003d200a8201/output/AndroidManifest.xml:20:9-189
 	android:excludeFromRecents

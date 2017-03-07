@@ -4,12 +4,36 @@
         "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color-v23/abc_tint_spinner.xml"
     },
     {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
         "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
         "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
         "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color-v23/abc_tint_spinner.xml"
     },
     {
         "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
@@ -26,6 +50,26 @@
     {
         "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
         "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/root/.android/build-cache/3b561724af9b209de9915e43cff50bf6c5d46603/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color-v23/abc_tint_edittext.xml"
     },
     {
         "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
