@@ -1,7 +1,0 @@
-#Tue Mar 07 00:36:06 WAT 2017
-base.0=/root/Pictures/IwanLearn2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_22fdde7e5fadcbd34a4630df3e6f6fa8545e7874
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/root/Pictures/IwanLearn2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9aa816d620763930466b35d71c35b0e3792006b8/classes.dex
-base.1=/root/Pictures/IwanLearn2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9aa816d620763930466b35d71c35b0e3792006b8
-file.0=/root/Pictures/IwanLearn2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_22fdde7e5fadcbd34a4630df3e6f6fa8545e7874/classes.dex

@@ -1,13 +1,5 @@
 [
     {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
-        "source": "/root/.android/build-cache/3b561724af9b209de9915e43cff50bf6c5d46603/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
-        "source": "/root/.android/build-cache/3b561724af9b209de9915e43cff50bf6c5d46603/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
-    },
-    {
         "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
         "source": "/root/.android/build-cache/3b561724af9b209de9915e43cff50bf6c5d46603/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },

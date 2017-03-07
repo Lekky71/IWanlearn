@@ -22,29 +22,5 @@
                 }
             }
         ]
-    },
-    {
-        "outputFile": "/root/Pictures/IwanLearn2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rES/values-es-rES.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 61,
-                    "endOffset": 112
-                },
-                "from": {
-                    "file": "/root/.android/build-cache/e7dc841491ee151e4303a9dd6e1121246daaf6b2/output/res/values-es-rES/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 185,
-                        "endColumn": 61,
-                        "endOffset": 242
-                    }
-                }
-            }
-        ]
     }
 ]

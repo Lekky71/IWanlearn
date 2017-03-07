@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
         "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
         "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_tint_switch_thumb.xml"
     },
@@ -12,60 +16,60 @@
         "source": "/root/.android/build-cache/f063a0a32f28c09d3a8a69bc9406a8b046c9518d/output/res/color/common_google_signin_btn_tint.xml"
     },
     {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
-        "source": "/root/.android/build-cache/f063a0a32f28c09d3a8a69bc9406a8b046c9518d/output/res/color/common_google_signin_btn_text_light.xml"
-    },
-    {
         "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
         "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_search_url_text.xml"
     },
     {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_hint_foreground_material_light.xml"
-    },
-    {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_btn_colored_borderless_text_material.xml"
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
         "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
         "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_tint_btn_checkable.xml"
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_tint_switch_track.xml"
     },
     {
         "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
         "source": "/root/.android/build-cache/f063a0a32f28c09d3a8a69bc9406a8b046c9518d/output/res/color/common_google_signin_btn_text_light.xml"
     },
     {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
         "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/design_error.xml",
         "source": "/root/.android/build-cache/3b561724af9b209de9915e43cff50bf6c5d46603/output/res/color/design_error.xml"
     },
     {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_tint_spinner.xml"
     },
     {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/switch_thumb_material_light.xml"
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_primary_text_material_light.xml"
     },
     {
         "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
         "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_primary_text_material_light.xml"
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
         "source": "/root/.android/build-cache/f063a0a32f28c09d3a8a69bc9406a8b046c9518d/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
@@ -88,115 +92,11 @@
         "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_tint_edittext.xml"
-    },
-    {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_tint_switch_thumb.xml"
+        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/root/.android/build-cache/3b561724af9b209de9915e43cff50bf6c5d46603/output/res/color/design_tint_password_toggle.xml"
     },
     {
         "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
         "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
-        "source": "/root/.android/build-cache/f063a0a32f28c09d3a8a69bc9406a8b046c9518d/output/res/color/common_google_signin_btn_tint.xml"
-    },
-    {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
-        "source": "/root/.android/build-cache/f063a0a32f28c09d3a8a69bc9406a8b046c9518d/output/res/color/common_google_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_tint_default.xml"
-    },
-    {
-        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/design_error.xml",
-        "source": "/root/.android/build-cache/3b561724af9b209de9915e43cff50bf6c5d46603/output/res/color/design_error.xml"
-    },
-    {
-        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
-        "source": "/root/.android/build-cache/3b561724af9b209de9915e43cff50bf6c5d46603/output/res/color/design_tint_password_toggle.xml"
-    },
-    {
-        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_search_url_text.xml"
-    },
-    {
-        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_hint_foreground_material_dark.xml"
-    },
-    {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "/root/Pictures/IwanLearn2/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/root/.android/build-cache/49b42eae5931ea12847fd498df21fab6a65a423c/output/res/color/abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "/root/Pictures/IWanlearn/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
-        "source": "/root/.android/build-cache/3b561724af9b209de9915e43cff50bf6c5d46603/output/res/color/design_tint_password_toggle.xml"
     }
 ]
